@@ -1,4 +1,4 @@
 # GitSetStart
 This is my first Git repository.
 <br>
-Author- Vaibhav Gupta
+Author- Vaibhav Gupta(VIT)
